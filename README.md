@@ -1,6 +1,5 @@
 C868 Software Development Capstone Application
-
-Author: Kane AbrasaldoCancel changes
+Author: Kane Abrasaldo
 
 Email: kabrasa@wgu.edu
 
