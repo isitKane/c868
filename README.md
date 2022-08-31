@@ -1,12 +1,21 @@
 C868 Software Development Capstone Application
-Author: Kane Abrasaldo
+
+Author: Kane AbrasaldoCancel changes
+
 Email: kabrasa@wgu.edu
+
 Version 1
+
 August 7th, 2022
+
 IntelliJ IDEA Community Edition 2022.2.1
+
 Java JDK 17.0.1
+
 JavaFX SDK 17.0.1
+
 mysql-connector-java-8.0.26.jar
+
 
 This is an updated version of my C195 JavaFX application that was repurposed for my capstone project. It has additional features such as the new search bar for appointments and customers.
 
